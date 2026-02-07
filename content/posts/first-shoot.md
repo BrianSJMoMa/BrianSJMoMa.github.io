@@ -1,6 +1,6 @@
 +++
 date = '2026-02-07T23:14:16+03:00'
-draft = true
+draft = false
 title = 'First Shoot'
 
 +++
