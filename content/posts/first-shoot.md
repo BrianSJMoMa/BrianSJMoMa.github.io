@@ -7,7 +7,7 @@ title = 'First Shoot'
 
 这里是正文。下面是我的照片： 
 
-![基督救世主大教堂光轨](/images/jidu.jpg) 
+![基督救世主大教堂光轨](/images/jidu_ex.jpg) 
 
 以及我拍的月亮！
 
